@@ -14,11 +14,11 @@ This project delivers interactive dashboards and tailored presentations for the 
 - **Sales Team Dashboard (Tableau Public):**  
   [View here](https://public.tableau.com/app/profile/aironas.vinickas/viz/SalesDashboardforSalesTeam/SalesDashboardforSalesteam)
 
-- **Executive Presentation (PowerPoint):**  
-  [Download here](https://github.com/AironasVin/Visualizing-Data-Using-Tableau/blob/main/Executives%20Presentation.pptx)
+- **Executive Presentation (Google Slides):**  
+  [View here](https://docs.google.com/presentation/d/1bhf4lEl_gtAmcdDrhAlUYf3WSLTpCt0L/edit?usp=sharing&ouid=114102501019119982342&rtpof=true&sd=true)
 
-- **Sales Team Presentation (PowerPoint):**  
-  [Download here](https://github.com/AironasVin/Visualizing-Data-Using-Tableau/blob/main/Sales%20Team%20Presentation.pptx)
+- **Sales Team Presentation (Google Slides):**  
+  [View here](https://docs.google.com/presentation/d/1ozvZsD4eJJX4Mn3EvoPBl9tc1MwWVLSp/edit?slide=id.p17#slide=id.p17)
 
 ---
 
